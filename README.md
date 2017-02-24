@@ -2,6 +2,13 @@
 Measuring bee hives
 
 Currently measuring:
-* Weight
-* Temperature
-* Humidity
+* Weight of the total bee hive
+* Temperature at 2 places inside the bee hive
+* Temperatyre outside the bee hive
+* Humidity inside the bee hive
+
+Hardware used:
+* NodeMCU with ESP8266 12E
+* HX711 and 2 or 4 weight sensors
+* D18B20
+* DHT22
