@@ -1,2 +1,0 @@
-# DigiHive
-Measuring bee hives
